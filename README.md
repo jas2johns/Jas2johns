@@ -32,9 +32,10 @@ I am a Full Stack JavaScript Developer who designs and codes according the needs
 
 # Jason Johnson
 
-<img src="https://jasonjohnson.me/logo-no-background.svg" alt="Portfolio" width="200" align="left">
+[<img src="https://jasonjohnson.me/logo-no-background.svg" alt="Portfolio" width="200" align="left">](http://jasonjohnson.me)
 
 Welcome to my [portfolio site](http://jasonjohnson.me). Explore my projects, skills, and professional achievements.
+
 
 
 
