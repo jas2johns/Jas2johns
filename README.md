@@ -32,9 +32,9 @@ I am a Full Stack JavaScript Developer who designs and codes according the needs
 
 # Jason Johnson
 
-[<img src="https://jasonjohnson.me/logo-no-background.svg" alt="Portfolio" width="200" align="left">](http://jasonjohnson.me)
+[<img src="https://jasonjohnson.me/logo-no-background.svg" alt="Portfolio" width="200" align="left">](http://jasonjohnson.me){:target="_blank"}
 
-Welcome to my [portfolio site](http://jasonjohnson.me). Explore my projects, skills, and professional achievements.
+Check out my [portfolio site](http://jasonjohnson.me). Explore my projects, skills, and professional achievements.
 
 
 
@@ -45,7 +45,7 @@ Welcome to my [portfolio site](http://jasonjohnson.me). Explore my projects, ski
 
 ### GitHub Stats
 
-
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jas2johns&show_icons=true&theme=nightowl)
 
 
 <!--
