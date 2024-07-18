@@ -28,6 +28,8 @@ I am a Full Stack JavaScript Developer who designs and codes according the needs
 <br/>
 <img align="left" alt="Shopify" width="27px" height="27px" src="https://static.cdnlogo.com/logos/s/88/shopify.svg" style="max-width: 100%; padding-top: 5px; padding-bottom: 5px;">
 
+
+
 ---
 
 <br/>
