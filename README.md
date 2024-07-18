@@ -27,18 +27,15 @@ I am a Full Stack JavaScript Developer who designs and codes according the needs
 <img align="left" alt="Shopify" width="27px" height="27px" src="https://static.cdnlogo.com/logos/s/88/shopify.svg" style="max-width: 100%; padding-top: 5px; padding-bottom: 5px;">
 
 ---
-Linkedin
-<meta property="og:title" content="Jason Johnson - LinkedIn Profile" />
-<meta property="og:type" content="profile" />
-<meta property="og:url" content="https://www.linkedin.com/in/jason-johnson-498737136/" />
-<meta property="og:image" content="https://media.licdn.com/dms/image/D5603AQHgBqI0RdroNA/profile-displayphoto-shrink_800_800/0/1667275323019?e=1726704000&v=beta&t=5KoPyhXF4SWIoimt8QKUhPu8iRgM_uMV3_haozOy5uM" />
-<meta property="og:description" content="Connect with Jason Johnson on LinkedIn. Explore his professional experience, network, and career achievements." />
-<meta property="profile:first_name" content="Jason" />
-<meta property="profile:last_name" content="Johnson" />
-<meta property="profile:username" content="jason-johnson-498737136" />
-<meta property="profile:gender" content="male" />
+# Jason Johnson
 
---
+[![LinkedIn Profile](https://media.licdn.com/dms/image/D5603AQHgBqI0RdroNA/profile-displayphoto-shrink_800_800/0/1667275323019?e=1726704000&v=beta&t=5KoPyhXF4SWIoimt8QKUhPu8iRgM_uMV3_haozOy5uM)](https://www.linkedin.com/in/jason-johnson-498737136/)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jason-johnson-498737136/). Explore my professional experience, network, and career achievements.
+
+
+---
+
 Portfolio Site
 
 ---
