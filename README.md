@@ -46,9 +46,6 @@ Check out my [portfolio site](http://jasonjohnson.me). Explore my projects, skil
 
 ---
 
-### GitHub Stats
-
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jas2johns&show_icons=true&theme=nightowl)
 
 
 
