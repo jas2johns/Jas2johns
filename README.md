@@ -27,16 +27,16 @@ I am a Full Stack JavaScript Developer who designs and codes according the needs
 <img align="left" alt="Shopify" width="27px" height="27px" src="https://static.cdnlogo.com/logos/s/88/shopify.svg" style="max-width: 100%; padding-top: 5px; padding-bottom: 5px;">
 
 ---
+
+### Portfolio Site
+
 # Jason Johnson
 
-[![LinkedIn Profile](https://media.licdn.com/dms/image/D5603AQHgBqI0RdroNA/profile-displayphoto-shrink_800_800/0/1667275323019?e=1726704000&v=beta&t=5KoPyhXF4SWIoimt8QKUhPu8iRgM_uMV3_haozOy5uM)](https://www.linkedin.com/in/jason-johnson-498737136/)
+[![Portfolio](https://media.licdn.com/dms/image/D5603AQHgBqI0RdroNA/profile-displayphoto-shrink_800_800/0/1667275323019?e=1726704000&v=beta&t=5KoPyhXF4SWIoimt8QKUhPu8iRgM_uMV3_haozOy5uM)](http://jasonjohnson.me)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/jason-johnson-498737136/). Explore my professional experience, network, and career achievements.
+Welcome to my [portfolio site](http://jasonjohnson.me). Explore my projects, skills, and professional achievements.
 
 
----
-
-Portfolio Site
 
 ---
 
