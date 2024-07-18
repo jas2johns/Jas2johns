@@ -6,7 +6,7 @@ I am a Full Stack JavaScript Developer who designs and codes according the needs
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools **`used to build and work`**
 
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%; padding-top: 5px; padding-bottom: 5px;">
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%; padding-top: 5px; padding-bottom: 5px;">
